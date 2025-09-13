@@ -1,7 +1,7 @@
-# bash-utilities
+# Bash-Utilities
 A collection of command-line utilities for automation, file management, media handling.
 
-##Scripts
+## Scripts
 
 -'moviePicker.sh' randomly pick a movie (or any file) from a directory.
 -'digitalDiary' create daily jorunal entries with optional titles.
@@ -10,7 +10,7 @@ A collection of command-line utilities for automation, file management, media ha
 -'calculator' simple four-operation command-line calculator.
 -'whatIsYourName' interactive name prompt.
 
-##Usage
+## Usage
 To use any of the scripts, first make it executable:
 
 ```bash
